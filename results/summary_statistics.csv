@@ -1,0 +1,2 @@
+Dataset,Total_Cells_Raw,Total_Cells_Filtered,Total_Genes,HVGs,Clusters,Cell_Types,Healthy_Cells,COVID19_Cells,Moderate_Cells,Severe_Cells
+GSE145926 (Liao et al. 2020),108230,82319,24899,1589,17,15,25270,57049,46862,10187
